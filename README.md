@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/test-5EE26D?style=flat-square&logo=Go&logoColor=#00ADD8"/></a>
+<a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/test-5EE26D?style=flat-square&logo=Java&logoColor=#00ADD8"/></a>
