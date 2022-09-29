@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/test-5EE26D?style=flat-square&logo=Java&logoColor=#00ADD8"/></a>
+<img src="https://img.shields.io/badge/test-5EE26D?style=flat-square&logo=Java&logoColor=#00ADD8"/>
+
+****
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jootang2)](https://github.com/jootang2/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jootang2)](https://github.com/jootang2/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkuu369)](https://solved.ac/kkuu369)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjootang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/jootang2)
